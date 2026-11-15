@@ -33,5 +33,3 @@
 - ide bisnis minggu ini: belum ada
 - Target minggu depan: Minggu 6 (Level 20, ±20 jam): SQLBolt 1–12, Superstore ke SQLite, 12 pertanyaan via SQL, Checkpoint 1 (batas Min 22 Nov). Pemanasan Python 20' Sel–Rab.
 
-## Minggu 6 (16 - 21 Nov)
-- Jam terpakai:
