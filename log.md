@@ -33,3 +33,13 @@
 - ide bisnis minggu ini: belum ada
 - Target minggu depan: Minggu 6 (Level 20, ±20 jam): SQLBolt 1–12, Superstore ke SQLite, 12 pertanyaan via SQL, Checkpoint 1 (batas Min 22 Nov). Pemanasan Python 20' Sel–Rab.
 
+## Minggu 6 (16–22 Nov 2026)
+- Jam terpakai (level 20 / 17 / 15): 11,73 jam (Level 20)
+- Tugas inti selesai (x/5): 5/5
+- Cuti dipakai minggu ini / tabungan cuti: 0 / 1
+- Level minggu depan: 17
+- Yang dipelajari: SQLBolt 1–12 (SELECT, WHERE, ORDER BY, JOIN, NULL, GROUP BY, HAVING). Superstore masuk SQLite dan Kunci Jawaban SQL 12/12 cocok dengan Excel; answer_key.sql di repo. Hal baru: kolom bersimbol pakai kutip ganda, strftime untuk tahun/bulan, COUNT(DISTINCT) untuk order unik, julianday() untuk selisih tanggal. WHERE menyaring baris sebelum dikelompokkan, HAVING menyaring kelompok sesudahnya. Python: tes dict per region dengan loop + += lulus tanpa bantuan; menggabungkan dua dict per kunci dan .values() dipelajari lewat contoh. Margin total (total profit ÷ total sales) ≠ rata-rata margin per region, karena rata-rata menganggap semua region sama berat, jadi region kecil dengan margin tinggi menarik angkanya ke atas.
+- Yang bikin stuck (dan bagaimana keluar): Sering salah baca detail soal (>= vs >, ORDER BY lupa, tertinggi vs terendah di Q5). Keluar: tulis soal sebagai komentar dulu dan garis bawahi kata kuncinya sebelum menulis query. Tanggal teks langsung dikurangi → hasilnya selisih tahun; keluar: pakai julianday().
+- Skor eval terbaru (kalau ada): — (eval mulai Minggu 13)
+- Ide bisnis minggu ini: belum ada
+- Target minggu depan: Minggu 7 (Level 17): setup Mac (Terminal, Python, VS Code, git, venv) + Kaggle Pandas 1–3 + script baca_superstore.py dengan Q1–Q2.
