@@ -43,3 +43,14 @@
 - Skor eval terbaru (kalau ada): — (eval mulai Minggu 13)
 - Ide bisnis minggu ini: belum ada
 - Target minggu depan: Minggu 7 (Level 17): setup Mac (Terminal, Python, VS Code, git, venv) + Kaggle Pandas 1–3 + script baca_superstore.py dengan Q1–Q2.
+
+## Minggu 7 (23–29 Nov 2026)
+- Jam terpakai (level 17): 13,2 jam (Sen 2 · Sel 1,5 · Rab 2,5 · Kam 2,5 · Jum 1 · Sab 3,7)
+- Tugas inti selesai (x/5): 5/5
+- Cuti dipakai minggu ini / tabungan cuti: 0 / tabungan 2
+- Level minggu depan: 17 (naik ke 20 kalau Minggu 8 juga 5/5)
+- Yang dipelajari: Terminal dasar, git dari Terminal (add-commit-push, .gitignore), venv, Kaggle Pandas 1–3, baca_superstore.py + Q1–Q2 cocok. Rasio dihitung dari total, bukan rata-rata per baris. Gabung dua dict pakai dua loop; max() pada dict membandingkan key, jadi pakai key=dict.get.
+- Yang bikin stuck (dan bagaimana keluar): path relatif (Python membaca dari folder Terminal, bukan folder script); map vs apply; Q5 lupa SUM karena kata TOTAL tidak ditulis di komentar → kebiasaan baru: salin soal ke komentar kata per kata.
+- Skor eval terbaru: belum ada (eval mulai Minggu 13)
+- Ide bisnis minggu ini: –
+- Target minggu depan: pandas 12/12 + panggilan API pertama (kredit $5, auto-reload OFF)
